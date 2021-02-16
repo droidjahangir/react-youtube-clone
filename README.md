@@ -1,2 +1,2 @@
 # Project front page
-![front page](./react-youtube.png)
+![front page](./landing-page.png)
